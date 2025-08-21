@@ -1,4 +1,4 @@
----
+---infixe
 manufacturer:
     - general
 ---
